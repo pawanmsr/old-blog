@@ -4,4 +4,4 @@ set -e # halt script on error
 gem install jekyll html-proofer
 
 jekyll build
-htmlproofer ./_site
+# htmlproofer ./_site
