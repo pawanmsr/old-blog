@@ -19,7 +19,7 @@ All user specific content is licensed under [CC BY-NC-ND 4.0](https://creativeco
 Notes
 -----
 
-Test Deployment
+Test Deployment.
 
 ```shell
 # https://jekyllrb.com/docs/installation/#requirements
@@ -32,4 +32,20 @@ gem install jekyll bundler
 
 # Host on local.
 bundle exec jekyll serve
+```
+
+Rebase and Squash all commits regularly.
+
+```shell
+git rebase -i commit-hash
+
+# Replace pick with squash
+# for all commits except the
+# first and the last.
+
+# Replace pick with fixup -c
+# for the last commit.
+
+# Keep only the latest commit.
+
 ```
