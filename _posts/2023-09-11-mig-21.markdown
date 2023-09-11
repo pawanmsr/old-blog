@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Drawing Adventures: MiG 21 Bison"
+subtitle: "Caricature of Mikoyan-Gurevich MiG-21 'Fishbed'."
+date: 2023-09-11 15:25 +0530
+categories: [fun]
+---
+
+![MiG 21 Bis](/img/mig-21.svg)
+
+Most produced supersonic combat aircraft. Performs as a fighter-interceptor. Numbers Built: 11,496 (10,645 by USSR, 194 by Czechoslovakia, 657 by India). This is a scaled approximate non technical representation inspired from visual inspection.  
