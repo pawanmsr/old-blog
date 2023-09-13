@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="595.27557pt"
+   height="841.88977pt"
+   viewBox="0 0 209.99999 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="mig-21.svg"
    inkscape:export-filename="C:\Users\pawan\Documents\Graphics\mig-21.png"
    inkscape:export-xdpi="300"
@@ -24,18 +24,21 @@
      borderopacity="1"
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="447"
-     inkscape:cy="387.5"
+     inkscape:cy="867.5"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1"
+     borderlayer="true" />
   <defs
      id="defs2">
     <rect
@@ -177,19 +180,19 @@
        inkscape:collect="always"
        xlink:href="#linearGradient10714"
        id="linearGradient10716"
-       x1="371.09016"
-       y1="475.01319"
+       x1="371.09015"
+       y1="475.01318"
        x2="427.87775"
-       y2="475.01319"
+       y2="475.01318"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient15280"
        id="linearGradient15282"
        x1="382.5"
-       y1="639.1904"
+       y1="639.19043"
        x2="416.5"
-       y2="639.1904"
+       y2="639.19043"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -197,7 +200,7 @@
        id="linearGradient17508"
        x1="364.09814"
        y1="293.5"
-       x2="434.52773"
+       x2="434.52774"
        y2="293.5"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
@@ -634,31 +637,65 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="attributes"
-     sodipodi:insensitive="true">
+     inkscape:label="attributes">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,15.105252,6.0188602)"
+       transform="matrix(0.26458333,0,0,0.26458333,5.5149098,-3.4761386)"
        id="text5272"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect5274);fill:#000000;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect5274);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="63"
-         y="111.70683"
-         id="tspan6093">Top View
-</tspan><tspan
-         x="63"
-         y="138.37346"
-         id="tspan6095">Scaled
-</tspan><tspan
-         x="63"
-         y="165.04008"
-         id="tspan6097">SVG</tspan></text>
+         y="111.98189"
+         id="tspan6">Top View</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-11.30853,37.03943)"
        id="text22534"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect22536);fill:#000080;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect22536);display:inline;fill:#000080;fill-opacity:1;stroke:none"><tspan
          x="499"
          y="222.17287"
-         id="tspan6099">Vayu</tspan></text>
+         id="tspan7">Vayu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.08444"
+       y="269.92462"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="22.08444"
+         y="269.92462">Pawan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="188.18486"
+       y="26.152407"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="188.18486"
+         y="26.152407">Mikoyan-Gurevich</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="188.18486"
+         y="33.207958"
+         id="tspan3">MiG-21</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64442px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="187.3828"
+       y="270.15887"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64442px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264582"
+         x="187.3828"
+         y="270.15887">Scaled</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64442px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264582"
+         x="187.3828"
+         y="277.21439"
+         id="tspan5">SVG</tspan></text>
   </g>
 </svg>
