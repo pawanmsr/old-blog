@@ -39,20 +39,38 @@ author:
 # theme: minima
 plugins:
   - jekyll-feed
-highlighter: coderay
+highlighter: rouge
 markdown: kramdown
 
 kramdown:
+  input: GFM
+  # Coderay options.
+  # syntax_highlighter: coderay
+  # syntax_highlighter_opts:
+  #   default_lang: html
+  #   line_numbers: table
+  #   bold_every: 5
+  #   wrap: div
+  #   css: class
+
+  # Rouge options.
+  # syntax_highlighter: rouge
   syntax_highlighter_opts:
-    line_numbers: table
-    bold_every: 5
-    wrap: div
-    css: class
+    # default_lang: html
+    guess_lang: false
+    css_class: 'highlight'
+    line_format: '%i  '
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+      wrap: true
 
 google_analytics: 'G-D38QQ9CS1K'
 
 # Syntax highlighting
-highlightstyle: 'vs'
+highlightstyle: 'brown_paper'
 styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.light, atelier-dune.dark, atelier-dune.light, atelier-estuary.dark, atelier-estuary.light, atelier-forest.dark, atelier-forest.light, atelier-heath.dark, atelier-heath.light, atelier-lakeside.dark, atelier-lakeside.light, atelier-plateau.dark, atelier-plateau.light, atelier-savanna.dark, atelier-savanna.light, atelier-seaside.dark, atelier-seaside.light, atelier-sulphurpool.dark, atelier-sulphurpool.light, brown_paper, codepen-embed, color-brewer, dark, darkula, default, docco, far, foundation, github, github-gist, googlecode, grayscale, hopscotch, hybrid, idea, ir_black, kimbie.dark, kimbie.light, magula, mono-blue, monokai, monokai_sublime, obsidian, paraiso.dark, paraiso.light, pojoaque, railscast, rainbow, school_book, solarized_dark, solarized_light, styles_list.txt, sunburst, tomorrow, tomorrow-night-blue, tomorrow-night-bright, tomorrow-night, tomorrow-night-eightie, vs, xcode, zenburn]
 
 # Exclude from processing.
@@ -74,4 +92,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-exclude: ["README.md", "README.html", vendor]
+exclude: ["README.md", "README.html", vendor/**]

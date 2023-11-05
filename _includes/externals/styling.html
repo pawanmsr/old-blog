@@ -2,7 +2,9 @@
 <link rel="stylesheet" href="{{ '/assets/vendor/normalize-css/normalize.css' | prepend: site.baseurl }}">
 <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
 
-<link rel="stylesheet" href="{{ '/assets/vendor/coderay/coderay.css' | prepend: site.baseurl }}" type="text/css">
+{% if site.highlighter == "coderay" %}
+  <link rel="stylesheet" href="{{ '/assets/vendor/coderay/coderay.css' | prepend: site.baseurl }}" type="text/css">
+{% endif %}
 
 {% if site.styles contains site.highlightstyle %}
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/highlight/styles/{{ site.highlightstyle }}.css">

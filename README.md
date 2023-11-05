@@ -30,6 +30,9 @@ gcc -v && g++ -v && make -v
 # Install jekyll and blunder.
 gem install jekyll bundler
 
+# Install dependencies.
+bundle install
+
 # Host on local.
 bundle exec jekyll serve
 ```
@@ -37,7 +40,7 @@ bundle exec jekyll serve
 Rebase and Squash all commits regularly.
 
 ```shell
-git rebase -i commit-hash
+git rebase -i $commit_hash
 
 # Replace pick with squash
 # for all commits except the
