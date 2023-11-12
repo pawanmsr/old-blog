@@ -44,14 +44,15 @@ Operator groups follow precedence: *exponential*, *logical*, *multiplication*, *
 - `SLL` Shift Left Logically.
 - `SRL` Shift Right Logically.
 - `SRA` Shift Right Arithmetically.
+- `SLA` Shift Left Arithmetically.
 - `ROL` ROtate Left.
 - `ROR` ROtate Right.
 - `=` Equality.
 - `/=` Inequality.
 - `<` Less than.
 - `<=` Less than or equal to.
-- `\>` Greater than.
-- `\>=` Greater than or equal to.
+- `>` Greater than.
+- `>=` Greater than or equal to.
 - `--` Single line comments. No method for block comments.
 
 Use 'single' quotes for single bit value; "double quotes" for bit sequence.  
@@ -165,6 +166,7 @@ WITH expression_to_evaluate SELECT
     name_of_target_signal <= value_or_source_signal WHEN value_of_evaluated_expression,
                              another_value_or_source_signal WHEN another_value_of_evaluated_expression,
                              yet_another_value_or_source_signal WHEN OTHERS;
+
 -- there can be multiple values of evaluated expression in a single WHEN statement
 -- multiple values need to be listed using '|' seperator
 -- value_or_source_signal WHEN first_value | second_value | third_value,
