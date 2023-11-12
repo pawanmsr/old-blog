@@ -22,7 +22,7 @@ Stephen Hawking, in 1981, wrote an article titled *Is the End in Sight for Theor
 
 > We already know the physical laws that govern everything we experience in everyday life…. It is a tribute to how far we have come in theoretical physics that it now takes enormous machines and a great deal of money to perform an experiment whose results we cannot predict.
 
-There have been times when nothing new would pop up in fundamental sciences research, and many disheartened researchers would remark the end of exciting times. Although discovering new sciences maybe on declines in the long run of events, but every now and then someone does come up with yet another amazing discovery leading to revitalized enthusiam and interest in the field.  
+There have been times when nothing new would pop up in fundamental sciences research, and many disheartened researchers would remark the end of exciting times. Although discovering new sciences maybe on decline in the long run of events, but every now and then someone does come up with yet another amazing discovery leading to revitalized enthusiam and interest in the field.  
 
 James Gleick mentions in his book: Chaos, while comparing Mathematics with Physics that:
 
