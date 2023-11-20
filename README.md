@@ -52,3 +52,5 @@ git rebase -i $commit_hash
 # Keep only the latest commit.
 
 ```
+ 
+Delete the repository on GitHub and re-create after evertime a certain number of pull requests are recorded - this will erase the PRs from GitHub (because GitHub does not allow PR deletion on UI).  
